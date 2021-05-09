@@ -1,13 +1,13 @@
----
+--- 
 # Display name
-title: Nelson Bighetti
+標題：偉家
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
+# Role/position/tagline 
+角色：人工釀酒教授學生
+  
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Stanford University
